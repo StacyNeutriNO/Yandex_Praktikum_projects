@@ -4,7 +4,7 @@
 
 | Project | Description | Tools |
 | :-------| :-----------| :-----------|
-|[Исследование данных сервиса “Яндекс.Музыка” ](https://github.com/StacyNeutriNO/Yandex_Praktikum_projects/blob/main/all_projects/project_01.ipynb) | Необходимо сравнить поведение пользователей сервиса Москвы и Петербурга | Python, Pandas |
+|[Исследование данных сервиса “Яндекс.Музыка” ](https://github.com/StacyNeutriNO/Yandex_Praktikum_projects/blob/main/all_projects/project_01/project_01.ipynb) | Необходимо сравнить поведение пользователей сервиса Москвы и Петербурга | Python, Pandas |
 |[Исследование надёжности заёмщиков](https://github.com/StacyNeutriNO/Yandex_Praktikum_projects/blob/main/all_projects/project_02.ipynb) | Заказчик — кредитный отдел банка. Нужно выявить факторы, влияющие на факт погашения кредита в срок | Python, Pandas |
 |[Исследование объявлений о продаже квартир](https://github.com/StacyNeutriNO/Yandex_Praktikum_projects/blob/main/all_projects/project_03.ipynb) | Задача - найти и описать  зависимость между ценами на недвижимость и  её различными параметрами | Python, Pandas, Matplotlib | 
 |[Перспективный тариф для "Мегалайн"](https://github.com/StacyNeutriNO/Yandex_Praktikum_projects/blob/main/all_projects/project_04.ipynb) | Поиск оптимального тарифа на основе анализа поведения клиентов | Python, Pandas, Matplotlib, NumPy, SciPy |
